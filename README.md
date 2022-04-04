@@ -1,0 +1,2 @@
+# hadros.com
+myblog
